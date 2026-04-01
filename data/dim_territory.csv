@@ -1,0 +1,30 @@
+﻿territory_id,territory_name,district,state,zone,channel,sales_rep_name,launch_fy,town_tier
+T-WB-01,Serampore,Hooghly,West Bengal,East Zone,General Trade,Arnab Chatterjee,FY2023-24,Tier 3
+T-WB-02,Chinsurah,Hooghly,West Bengal,East Zone,General Trade,Suman Banerjee,FY2023-24,Tier 3
+T-WB-03,Arambagh,Hooghly,West Bengal,East Zone,General Trade,Prasanta Ghosh,FY2023-24,Tier 3
+T-WB-04,Bardhaman City,East Burdwan,West Bengal,East Zone,General Trade,Debashis Mukherjee,FY2023-24,Tier 3
+T-WB-05,Katwa,East Burdwan,West Bengal,East Zone,General Trade,Partha Sarathi Das,FY2023-24,Tier 3
+T-WB-06,Uluberia,Howrah,West Bengal,East Zone,General Trade,Somnath Bose,FY2023-24,Tier 3
+T-WB-07,Asansol North,Paschim Bardhaman,West Bengal,East Zone,General Trade,Rajesh Kumar Singh,FY2023-24,Tier 2
+T-WB-08,Asansol South,Paschim Bardhaman,West Bengal,East Zone,General Trade,Bikash Pal,FY2023-24,Tier 2
+T-WB-09,Durgapur,Paschim Bardhaman,West Bengal,East Zone,General Trade,Santanu Dey,FY2023-24,Tier 2
+T-WB-10,Kharagpur,West Midnapore,West Bengal,East Zone,General Trade,Subhasis Mondal,FY2024-25,Tier 3
+T-WB-11,Medinipur,West Midnapore,West Bengal,East Zone,General Trade,Tapan Mahata,FY2024-25,Tier 3
+T-WB-12,Bankura Town,Bankura,West Bengal,East Zone,General Trade,Sudipta Roy,FY2024-25,Tier 3
+T-WB-13,Bishnupur,Bankura,West Bengal,East Zone,General Trade,Arindam Saha,FY2024-25,Tier 3
+T-WB-14,Kalyani,Nadia,West Bengal,East Zone,General Trade,Nilanjan Basu,FY2024-25,Tier 3
+T-WB-15,Krishnanagar,Nadia,West Bengal,East Zone,General Trade,Biswajit Mandal,FY2024-25,Tier 3
+T-WB-16,Baharampur,Murshidabad,West Bengal,East Zone,General Trade,Mohibur Rahman,FY2024-25,Tier 3
+T-OD-01,Balasore Town,Balasore,Odisha,East Zone,General Trade,Pradip Kumar Sahu,FY2024-25,Tier 3
+T-OD-02,Jaleswar,Balasore,Odisha,East Zone,General Trade,Santosh Nayak,FY2024-25,Tier 3
+T-OD-03,Bhadrak City,Bhadrak,Odisha,East Zone,General Trade,Biswanath Behera,FY2024-25,Tier 3
+T-WB-17,Jangipur,Murshidabad,West Bengal,East Zone,General Trade,Saidul Islam,FY2025-26,Tier 3
+T-WB-18,Siliguri,Darjeeling,West Bengal,East Zone,General Trade,Dipak Sharma,FY2025-26,Tier 2
+T-WB-19,Malda Town,Malda,West Bengal,East Zone,General Trade,Alamgir Hossain,FY2025-26,Tier 3
+T-OD-04,Cuttack,Cuttack,Odisha,East Zone,General Trade,Amiya Ranjan Panda,FY2025-26,Tier 2
+T-OD-05,Bhubaneswar,Khordha,Odisha,East Zone,General Trade,Srikant Mishra,FY2025-26,Tier 2
+T-OD-06,Khordha Town,Khordha,Odisha,East Zone,General Trade,Debendra Jena,FY2025-26,Tier 3
+T-AS-01,Guwahati East,Kamrup Metropolitan,Assam,North-East Zone,General Trade,Bhaskar Kalita,FY2025-26,Tier 2
+T-AS-02,Guwahati West,Kamrup Metropolitan,Assam,North-East Zone,General Trade,Pranab Borah,FY2025-26,Tier 2
+T-AS-03,Nagaon Town,Nagaon,Assam,North-East Zone,General Trade,Dipankar Hazarika,FY2025-26,Tier 3
+T-AS-04,Tezpur Town,Sonitpur,Assam,North-East Zone,General Trade,Rituraj Choudhury,FY2025-26,Tier 3

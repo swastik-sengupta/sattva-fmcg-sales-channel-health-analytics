@@ -1,0 +1,19 @@
+﻿sku_id,product_name,category,pack_size,cost_price,distributor_price,retailer_price,mrp,launch_fy,units_per_carton
+OIL-MUS-0500M,Sattva Kachi Ghani Mustard Oil 500ml,Edible Oils,500ml,60,75,80,95,FY2023-24,24
+OIL-MUS-1000M,Sattva Kachi Ghani Mustard Oil 1L,Edible Oils,1L,112,138,149,175,FY2023-24,12
+OIL-MUS-5000M,Sattva Kachi Ghani Mustard Oil 5L,Edible Oils,5L,475,573,616,725,FY2023-24,4
+SPC-TUR-0100G,Sattva Pure Turmeric Powder 100g,Spices & Masalas,100g,19,26,29,38,FY2023-24,24
+SPC-TUR-0200G,Sattva Pure Turmeric Powder 200g,Spices & Masalas,200g,36,49,54,72,FY2023-24,24
+SPC-RCP-0100G,Sattva Red Chilli Powder 100g,Spices & Masalas,100g,22,29,32,42,FY2023-24,24
+SPC-RCP-0200G,Sattva Red Chilli Powder 200g,Spices & Masalas,200g,42,54,60,80,FY2023-24,24
+SPC-COR-0100G,Sattva Coriander Powder 100g,Spices & Masalas,100g,18,26,29,38,FY2023-24,24
+SPC-COR-0200G,Sattva Coriander Powder 200g,Spices & Masalas,200g,34,46,51,68,FY2023-24,24
+SPC-PNP-0050G,Sattva Panch Phoron 50g,Spices & Masalas,50g,14,19,21,28,FY2023-24,24
+SPC-PNP-0100G,Sattva Panch Phoron 100g,Spices & Masalas,100g,22,35,39,52,FY2023-24,24
+SPC-KKM-0050G,Sattva Kitchen King Masala 50g,Spices & Masalas,50g,20,30,34,45,FY2023-24,24
+SPC-KKM-0100G,Sattva Kitchen King Masala 100g,Spices & Masalas,100g,38,57,64,85,FY2023-24,24
+SPC-PPF-0050G,Sattva Pancha Phutana 50g,Spices & Masalas,50g,14,19,21,28,FY2024-25,24
+SWT-JGB-0500G,Sattva Pure Sugarcane Jaggery Block 500g,Natural Sweeteners,500g,40,51,56,75,FY2024-25,12
+SWT-JGP-0500G,Sattva Pure Sugarcane Jaggery Powder 500g,Natural Sweeteners,500g,44,57,64,85,FY2024-25,12
+FLR-BSN-0500G,Sattva Pure Besan 500g,Flours & Grain Staples,500g,35,51,57,75,FY2024-25,12
+FLR-BSN-1000G,Sattva Pure Besan 1kg,Flours & Grain Staples,1kg,68,98,109,145,FY2024-25,6

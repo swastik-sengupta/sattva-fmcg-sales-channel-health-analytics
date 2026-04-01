@@ -1,0 +1,37 @@
+distributor_id,distributor_name,territory_id,distributor_tier,launch_fy
+DIST-001,Maa Tara Agencies,T-WB-01,A,FY2023-24
+DIST-002,Hooghly Wholesale Traders,T-WB-02,A,FY2023-24
+DIST-003,Sree Sarada Suppliers,T-WB-03,B,FY2023-24
+DIST-004,Burdwan General Distribution,T-WB-04,A,FY2023-24
+DIST-005,Purba Bardhaman Traders,T-WB-04,B,FY2023-24
+DIST-006,Ajoy River Agencies,T-WB-05,B,FY2023-24
+DIST-007,Maa Santoshi Enterprise,T-WB-06,B,FY2023-24
+DIST-008,Paschim Bardhaman General Depot,T-WB-07,A,FY2023-24
+DIST-009,Asansol North Depot,T-WB-07,B,FY2023-24
+DIST-010,Asansol South Trade House,T-WB-08,A,FY2023-24
+DIST-011,Steel City Agencies,T-WB-09,A,FY2023-24
+DIST-012,Kharagpur Central Depot,T-WB-10,A,FY2024-25
+DIST-013,West Midnapore Distributors,T-WB-10,B,FY2024-25
+DIST-014,Midnapore Allied Traders,T-WB-11,B,FY2024-25
+DIST-015,Bankura Terracotta Agencies,T-WB-12,B,FY2024-25
+DIST-016,Bishnupur Regional Suppliers,T-WB-13,C,FY2024-25
+DIST-017,Kalyani New Town Traders,T-WB-14,B,FY2024-25
+DIST-018,Nadia District Agencies,T-WB-15,B,FY2024-25
+DIST-019,Murshidabad Allied Traders,T-WB-16,B,FY2024-25
+DIST-020,Baleshwar Trading Co.,T-OD-01,B,FY2024-25
+DIST-021,Jaleswar Border Agencies,T-OD-02,C,FY2024-25
+DIST-022,Bhadrak Commercial Traders,T-OD-03,B,FY2024-25
+DIST-023,Jangipur Silk Route Suppliers,T-WB-17,C,FY2025-26
+DIST-024,Terai Gateway Distributors,T-WB-18,A,FY2025-26
+DIST-025,Gaur Heritage Traders,T-WB-19,B,FY2025-26
+DIST-026,Mahanadi Distribution Hub,T-OD-04,A,FY2025-26
+DIST-027,Silver City Traders,T-OD-04,B,FY2025-26
+DIST-028,Ekamra Distribution Agencies,T-OD-05,A,FY2025-26
+DIST-029,Temple City Agencies,T-OD-05,B,FY2025-26
+DIST-030,Khordha General Suppliers,T-OD-06,B,FY2025-26
+DIST-031,Brahmaputra East Depot,T-AS-01,B,FY2025-26
+DIST-032,Dispur Commercial Agencies,T-AS-01,A,FY2025-26
+DIST-033,Paltan Bazar Traders,T-AS-02,B,FY2025-26
+DIST-034,Kamrup Distribution Hub,T-AS-02,A,FY2025-26
+DIST-035,Nagaon Central Suppliers,T-AS-03,C,FY2025-26
+DIST-036,Sonitpur Border Agencies,T-AS-04,C,FY2025-26
