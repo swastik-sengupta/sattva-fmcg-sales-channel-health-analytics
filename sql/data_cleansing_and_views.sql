@@ -189,7 +189,12 @@ WHERE sku_id IS NULL
 -- 0
 
 -- launch_fy distinct values check
-SELECT DISTINCT launch_fy FROM dim_sku ORDER BY launch_fy;
+SELECT
+	DISTINCT launch_fy
+FROM
+	dim_sku
+ORDER BY
+	launch_fy;
 -- FY2023-24
 -- FY2024-25
 
@@ -374,7 +379,7 @@ SELECT
 	TRIM(territory_id) AS territory_id,
 	TRIM(outlet_type) AS outlet_type,
 	TRIM(town_name) AS town_name,
-	TRIM(pincode) AS pincode,
+	TRIM(pincode::TEXT) AS pincode,
 	TRIM(onboard_date)::DATE AS onboard_date,
 	TRIM(status) AS status,
 	NULLIF(TRIM(deactivation_date), '')::DATE AS deactivation_date
@@ -828,7 +833,6 @@ SELECT
 	*
 FROM
 	cleaned;
-
 
 -- row count check
 SELECT
