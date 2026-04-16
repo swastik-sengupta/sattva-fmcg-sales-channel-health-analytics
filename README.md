@@ -25,11 +25,11 @@ During the creation of the primary sales and channel health dashboard, top-line 
 - **Data Cleaning, CTAS & View Engineering (SQL)** — Purged 330 corrupt rows — 249 exact duplicates, 60 partial duplicates, 20 impossible-date records; standardised three conflicting date formats; reclassified negative delivery quantities as returns; normalised case and whitespace across retailer and SKU identifiers. A dim_date calendar table was additionally engineered in SQL, spanning January 2023 to December 2026, with pre-calculated Indian fiscal year and quarter columns.
 - **Data Modeling** — Designed a Snowflake-Extended Fact Constellation Schema in Power BI connecting three fact tables (fact_secondary_sales, fact_primary_sales, fact_target) across five conformed dimensions, with a deliberate territory-to-distributor snowflake branch reflecting the business hierarchy.
 
-![Data Model – Star Schema](screenshots/data_model.png)
+![Data Model – Star Schema](outputs/screenshots/data_model.png)
 
 - **Visualization & Data-Storytelling** — The finalized SQL views were imported into Power BI to construct a two-page [Interactive Report](outputs/sattva_sales_dashboard.pbix). The first page serves as a macro-level executive summary, while the second page acts as a dedicated diagnostic hub. Through the strategic use of bookmarks, dynamic charts, and parameter sliders, each regional anomaly was isolated and dealt with separately.
 
-![Executive Summary – Page 1](screenshots/Page_1.png)
+![Executive Summary – Page 1](outputs/screenshots/Page_1.png)
 
 ## Repository Structure
 
@@ -46,21 +46,21 @@ During the creation of the primary sales and channel health dashboard, top-line 
     - **Root Cause** — The sales representative ceased all new store acquisition after September 2024, and management compounded the problem by writing target achievement to zero — effectively legitimising the stagnation instead of addressing it.
     - **Recommended Action** — Initiate a structured Performance Improvement Plan for Bikash Pal with measurable KPIs tied to new store acquisition and new product adoption.
 
-![Assam – Supply Chain Bottleneck Impact Analysis](screenshots/Page_2_asansol.png)
+![Assam – Supply Chain Bottleneck Impact Analysis](outputs/screenshots/Page_2_asansol.png)
 
 - **Category Rejection — Northern Odisha Market**
     - **Observation** — Kitchen King Masala and Pancha Phutana recorded return rates up to 29% in Northern Odisha against near-zero in West Bengal, trapping `₹38,400` in distributor inventory.
     - **Root Cause** — Kitchen King Masala faced entrenched local brand dominance; Pancha Phutana lost to deep-rooted loose-purchase habits — both structurally non-viable in Northern Odisha.
     - **Recommended Action** — Redirect Odisha distributor capacity toward Besan and Jaggery SKUs; liquidate trapped spice inventory via trade promotion discounts to free distributor working capital.
 
-![Odisha – Spice Product Adoption Failure Impact Analysis](screenshots/Page_2_odisha.png)
+![Odisha – Spice Product Adoption Failure Impact Analysis](outputs/screenshots/Page_2_odisha.png)
 
 - **Supply Chain Bottleneck — Assam Siliguri Corridor.**
     - **Observation** — Assam fill rates collapsed to almost `65%` during June–September monsoon, transit lag peaked at 11 days, bleeding `₹1.27L` in stockout revenue and suppressing up to 32% of monthly retailer demand.
     - **Root Cause** — The Siliguri Chicken Neck corridor — Assam's sole supply artery — faces severe monsoon-driven flooding and landslides annually, creating a structural, geographically unavoidable logistics bottleneck.
     - **Recommended Action** — Pre-position buffer stock at a Guwahati warehouse before June; negotiate secondary supplier contracts to cover monsoon-period demand independently of the Siliguri corridor.
 
-![Asansol South – Sales Rep Inactivity Impact Analysis](screenshots/Page_2_assam.png)
+![Asansol South – Sales Rep Inactivity Impact Analysis](outputs/screenshots/Page_2_assam.png)
 
 ## Limitations & Next Steps
 
